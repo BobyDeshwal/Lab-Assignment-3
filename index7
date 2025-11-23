@@ -21,7 +21,7 @@
   <main>
     <section id="about">
       <h2>About Me</h2>
-      <img src="My picture.jpg" width="250" alt="Profile Picture">
+      <img src="Boby Picture.jpg" width="250" alt="Profile Picture">
       <p>Hello! I’m Boby Deshwal<strong></strong>, a passionate and dedicated web developer focused on building clean, user-friendly, and meaningful digital experiences.</p>
       <p><em>"Building the web, one line of code at a time!"</em></p>
       <P>I like cricket , football,chess.</P>
@@ -96,4 +96,5 @@
   </footer>
 
 </body>
+
 </html>
